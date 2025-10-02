@@ -57,10 +57,11 @@ install.packages(c("tidyverse", "caret", "ggplot2", "lubridate", "recosystem"), 
 
 
 ## Note:  The process may take a few minutes, especially for downloading the MovieLens dataset during script execution.
-Usage
+
+### Usage
 
 
-**Run the Main Script: ** Execute the R script to perform data processing, model training, and evaluation:  movielens.R
+**Run the Main Script:** Execute the R script to perform data processing, model training, and evaluation:  movielens.R
 
 This script downloads the MovieLens dataset, creates training/validation sets, performs EDA, trains models (e.g., regularized linear and matrix factorization), and outputs RMSE results.
 

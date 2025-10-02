@@ -35,14 +35,14 @@ This project develops a movie recommendation system using the MovieLens 10M data
 git clone https://github.com/your-username/movie-recommendation-system.git
 cd movie-recommendation-system
 
-**Install R: **Ensure R is installed on your system. Download from CRAN.
+**Install R:** Ensure R is installed on your system. Download from CRAN.
 
 **Install Required Packages:** Open R or RStudio and run the following commands to install dependencies:
 
 install.packages(c("tidyverse", "caret", "ggplot2", "lubridate", "recosystem"), repos = "http://cran.us.r-project.org")
 
 
-**Verify Setup: **Load the libraries in an R session to confirm installation:
+**Verify Setup:** Load the libraries in an R session to confirm installation:
 
 -library(tidyverse)
 

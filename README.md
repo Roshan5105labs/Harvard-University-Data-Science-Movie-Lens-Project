@@ -31,10 +31,6 @@ This project develops a movie recommendation system using the MovieLens 10M data
 
 ### Installation Instructions
 
-**Clone the Repository:**
-git clone https://github.com/your-username/movie-recommendation-system.git
-cd movie-recommendation-system
-
 **Install R:** Ensure R is installed on your system. Download from CRAN.
 
 **Install Required Packages:** Open R or RStudio and run the following commands to install dependencies:
